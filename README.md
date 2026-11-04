@@ -27,19 +27,19 @@ The repository will include practical assignments and exercises covering topics 
 
 ##  Repository Structure
 
-Each practical assignment (TP) is organized in a separate folder containing its exercises and a README file explaining the objectives and concepts covered.
+Each practical assignment (wp) is organized in a separate folder containing its exercises and a README file explaining the objectives and concepts covered.
 
 ```text
 C-Programming/
 │
 ├── README.md
 │
-├── TP01/
+├── wp01/
 │   ├── README.md
 │   ├── Exercise01.c
 │   └── ...
 │
-├── TP02/
+├── wp02/
 │   ├── README.md
 │   └── ...
 ```
